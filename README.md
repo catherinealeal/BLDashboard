@@ -1,13 +1,13 @@
 # BrainLife Usage Statistics Dashboard
 
-## 3.1 Goal 
+## Goal 
 - The overall goal of this project is to use BrainLife (BL) usage statistics to create plots and display them on the BL platform.
 - Individual goals:  
  - Learn to use Tableau software for visualizing data
  - Create plots and dashboards for displaying BrainLife statistics
  - Connect the dashboards to BrainLife so that they are displayed on the website and automatically update based on current data
 
-## 3.2 Methods 
+## Methods 
 - Before a dashboard can be constructed, each plot must be individually created based on a single dataset.
 - Overall, 6 datasets were used to construct the dashboards.
   - The total_jobs_walltime dataset contains the amount of walltime used and jobs run per month since BrainLife started. It was used to construct 2 line graphs, one  representing the cumulative walltime used since the start of BrainLife and the other representing the cumultive job count since the start of BrainLife.
@@ -17,7 +17,7 @@
   - The jobs_walltime_per_project dataset contains the job count and walltime used per month, per project. It was used to construct 2 multiple lines graphs, one showing the cumulative walltime and the other showing cumulative job count, both separated by project. These plots allow us to determine the projects which used the most walltime and ran the most jobs per month.
   - The active_users_count_walltime dataset contains information the count of active users per month, as well as the jobs run and walltime used. It was used to constuct a line graph showing the amount of active users on BL per month.
 
-## 3.3 Results 
+## Results 
 - Once all of the individual plots were created, I combined them into a 3 dashboards based on their content.
 - Figure 18 is intended to be the main page users are directed to when viewing BL statistics. It contains the trends of cumulative walltime, job count, and object count, as well as the total number of active users over time.
 
@@ -37,7 +37,7 @@ Figure 19. Walltime broken down by project, user, resource, and app.
 ![image](https://github.com/catherinealeal/WhiteMatterTracking/assets/100166102/1ac38e5b-691e-4315-9f57-75267be2662e)
 Figure 20. Jobs broken down by project, user, resource, and app.
 
-## 3.4 Future Direction 
+## Future Direction 
 - These dashboards will allow Brainlife administrators and users to explore the usage of the BL platform over time.
 - Now that the dashboards are created in Tableau, they need to be linked to the Brainlife website so that any BL user can see these visualizations.
 - The datasets also need to be linked to current BL data so that the charts update automatically based on current data.
@@ -52,4 +52,4 @@ Figure 20. Jobs broken down by project, user, resource, and app.
 - Tournier, J-Donald, Fernando Calamante, and Alan Connelly. 2012. “MRtrix: Diffusion Tractography in Crossing Fiber Regions.” International Journal of Imaging Systems and Technology 22 (1): 53–66.
 - “TractSeg - Fast and Accurate White Matter Tract Segmentation.” 2018. NeuroImage 183 (December): 239–53.
 
-## View full notebook [here](https://github.com/catherinealeal/WhiteMatterTracking/blob/main/InternshipReport.ipynb)
+## View full internship report notebook [here]()
