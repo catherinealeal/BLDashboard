@@ -52,4 +52,4 @@ Figure 20. Jobs broken down by project, user, resource, and app.
 - Tournier, J-Donald, Fernando Calamante, and Alan Connelly. 2012. “MRtrix: Diffusion Tractography in Crossing Fiber Regions.” International Journal of Imaging Systems and Technology 22 (1): 53–66.
 - “TractSeg - Fast and Accurate White Matter Tract Segmentation.” 2018. NeuroImage 183 (December): 239–53.
 
-## View full internship report notebook [here]()
+## View full internship report notebook [here](https://github.com/catherinealeal/BLDashboard/blob/main/FullReport.ipynb).
