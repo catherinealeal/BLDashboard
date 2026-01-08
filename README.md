@@ -3,7 +3,7 @@
 ## Goal 
 - The overall goal of this project is to use BrainLife (BL) usage statistics to create plots and display them on the BL platform.
 - Individual goals:  
-  - Learn to use Tableau software for visualizing data
+  - Use Tableau software for visualizing data
   - Create plots and dashboards for displaying BrainLife statistics
   - Connect the dashboards to BrainLife so that they are displayed on the website and automatically update based on current data
 
